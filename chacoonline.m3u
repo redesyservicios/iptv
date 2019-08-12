@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Deutsche Welle
 http://10.12.2.10/0.m3u8
+#EXTINF:-1, RCC
+http://10.12.2.11/0.m3u8
